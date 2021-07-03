@@ -1,0 +1,11 @@
+x = [2,5;4,6];
+y = [1,5;6,-2];
+disp(x+y);
+disp(x-y);
+disp(x*y);
+disp(x');
+disp(x^-1);
+disp(x.*y);
+disp(x./y);
+disp(x.^2);
+disp(x.^y);
